@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- - 🔭 I’m currently working on HuYa, be a fontend intern ,trying to coding with a elegant way, and to be a FullStack devloper as soon as possible
+ - 🔭 I’m currently working on HuYa, fontend intern ,trying to coding with a elegant way, and to be a FullStack devloper as soon as possible
  - 🌱 currently learning Vue3, NodeJS, Ruby on rails 
  - 👯 looking to collaborate on AliBaBa
  - 📫 How to reach me: send E-Mail to pukhungyu@gmail.com, will reply you any way
