@@ -5,7 +5,7 @@
  - 🌱 currently learning Vue3, NodeJS, Ruby on rails 
  - 👯 looking to collaborate on where? i don`t know
  - 📫 How to reach me: send E-Mail to pukhungyu@gmail.com, will reply you any way
- - ⚡ Fun fact: high pressure, anxiety
+ - ⚡ Fun fact: high pressure, anxiety, self-driven learning 
  
 <!--
 **Trojan0523/Trojan0523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
