@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ ![](https://komarev.com/ghpvc/?username=trojan0523)
+ 
+ ![](https://github-readme-stats.vercel.app/api?username=trojan0523&show_icons=true&icon_color=199861&count_private=true)
 
  - 🔭 I’m currently working on HuYa, fontend intern ,trying to coding with an elegant way, and to be a FullStack devloper as soon as possible
  - 🌱 currently learning Vue3, NodeJS, Ruby on rails 
