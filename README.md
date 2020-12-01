@@ -10,7 +10,6 @@
  - 📫 How to reach me: send E-Mail to pukhungyu@gmail.com, will reply you any way
  - ⚡ Fun fact: high pressure, anxiety, self-driven learning 
  
- <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trojan0523">
 <!--
 **Trojan0523/Trojan0523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
