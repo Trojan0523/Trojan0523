@@ -1,11 +1,9 @@
 ### Hi there 👋
 
- ![](https://komarev.com/ghpvc/?username=trojan0523)
- 
  ![](https://github-readme-stats.vercel.app/api?username=trojan0523&show_icons=true&icon_color=199861&count_private=true)
 
- - 🔭 HuYa former, fontend intern ,trying to coding with an elegant way, and to be a FullStack devloper as soon as possible
- - 🌱 currently learning Vue3, NodeJS, Ruby on rails 
+ - 🔭 fontend developer 
+ - 🌱 currently learning Vue3, NodeJS, nest 
  - 📫 How to reach me: send E-Mail to pukhungyu@gmail.com, will reply you any way
  - ⚡ Fun fact: high pressure, anxiety, self-driven learning 
  
@@ -20,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://komarev.com/ghpvc/?username=trojan0523)
 -->
