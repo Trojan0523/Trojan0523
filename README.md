@@ -3,7 +3,7 @@
  ![](https://github-readme-stats.vercel.app/api?username=trojan0523&show_icons=true&icon_color=199861&count_private=true)
 
  - 🔭 fontend developer (HuYa, Cider)
- - 🌱 currently learning Vue3, NodeJS, nest, vite2
+ - 🌱 currently learning Vue3, React, NodeJS, nest, vite2, webpack, Micro-FrontEnd
  - 📫 How to reach me: send E-Mail to pukhungyu@gmail.com, will reply you any way
  - ⚡ Fun fact: high pressure, anxiety, self-driven learning 
  
