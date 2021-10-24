@@ -4,8 +4,6 @@
  <img width="350px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trojan0523&layout=compact"/>
  
  - 🔭 fontend developer (HuYa, Cider)
- - 🌱 currently learning Vue3, React, NodeJS, nest, vite2, webpack, Micro-FrontEnd
- - 📫 How to reach me: send E-Mail to pukhungyu@gmail.com, will reply you any way
  - ⚡ Fun fact: high pressure, anxiety, self-driven learning 
  
 <!--
