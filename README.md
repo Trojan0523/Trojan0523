@@ -7,6 +7,9 @@
  - ⚡ Fun fact: high pressure, anxiety, self-driven learning 
  
  <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
  
