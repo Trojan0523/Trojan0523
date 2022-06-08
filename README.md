@@ -1,5 +1,9 @@
 ![Metrics](https://metrics.lecoq.io/trojan0523)
 
+
+ - 🔭 Puk HungYu a fontend developer (HuYa, Cider)
+ - ⚡ Fun fact: high pressure, anxiety, self-driven learning 
+
  <!--START_SECTION:waka-->
 
 ```text
@@ -31,6 +35,4 @@ Here are some ideas to get you started:
 
 ### Hi there 👋   ![](https://komarev.com/ghpvc/?username=trojan0523&color=ff69b4&label=PV+Since+2020-1-1)
 
- - 🔭 Puk HungYu a fontend developer (HuYa, Cider)
- - ⚡ Fun fact: high pressure, anxiety, self-driven learning 
 -->
