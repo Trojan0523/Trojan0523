@@ -1,8 +1,9 @@
 ![Metrics](https://metrics.lecoq.io/trojan0523)
 
 
- - 🔭 Puk HungYu a fontend developer (HuYa, Cider)
+ - 🔭 Puk HungYu, frontend developer (Former HuYa Employee, working at Cider)
  - ⚡ Fun fact: high pressure, anxiety, self-driven learning 
+ - 🤔 I’m self-taught and have been programming since 2020. truly believe clumsy birds have to start flying early
 
  <!--START_SECTION:waka-->
 
