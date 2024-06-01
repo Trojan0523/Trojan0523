@@ -1,5 +1,5 @@
 
- - 🔭 Puk HungYu, frontend developer (Former HuYa Employee, working at Cider)
+ - 🔭 Puk HungYu, frontend developer (Cider, ex-HuYa)
  - ⚡ Fun fact: high pressure, anxiety, self-driven learning 
  - 🤔 I’m self-taught and have been programming since 2020. truly believe clumsy birds have to start flying early
 
